@@ -1,0 +1,23 @@
+.orderItems{
+    float:left;
+    height:300px;
+    width:250px;
+    margin:2%;
+    margin-top: 100px;
+    font-size: 16px;
+    box-shadow:10px 10px 20px gray
+}
+
+.orderItems>img{
+
+   height:200px;
+   width:100%
+}
+
+#FormContainer{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    font-size: 1.5rem;
+ 
+}
+

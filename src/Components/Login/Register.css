@@ -1,0 +1,47 @@
+#RegisterBox{
+    width: 50%;
+    height: 50%;
+    margin-top: 15rem;
+    margin-bottom: 3rem;;
+    font-size: 100%;
+    box-sizing: border-box;
+    border:.2rem solid rgba(0,0,0,.1);
+    background-color: rgb(247, 218, 218);
+    box-shadow:.5rem .5rem rgba(0,0,0,.1);
+    
+    outline:.1rem solid rgba(0,0,0,.1);
+    --outline-hover:.2rem solid var(--black)
+}
+
+#RegisterBox h2{
+    text-align: center;
+    font-size: 3rem;
+    text-transform: uppercase;
+    color:var(--orange);
+    border-bottom: 2px solid gray;
+}
+
+.form-label{
+    font-size: 2rem;
+    
+}
+
+.form-control{
+    border: .2rem solid rgba(0,0,0,.1);
+    height: 4rem;
+    font-size: 2rem;
+   
+}
+
+.form-control{
+    font-size: 1.5rem;
+    
+}
+
+#btn{
+    margin-bottom: 1rem;
+    width: 70%;
+    margin-left: 10rem;
+    
+
+}
